@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gefovepe.github.io/sitemap/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/wfi/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/pZv/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/VYB/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/ERC/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/Als/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/kwx/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/tCp/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/YAE/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/BcD/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/vUe/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/SRd/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/eOu/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/sZV/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/otm/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/lrj/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/bPJ/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/skR/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/lmJ/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/FZj/sitemap_index.gefovepe
+Sitemap: https://gefovepe.github.io/EXF/sitemap_index.gefovepe
